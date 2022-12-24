@@ -269,7 +269,7 @@ section .title::after{
 .interests .title::after,
 .teams .title::after{
     background: #fff;
-    content: "Yes, I do belong to a tech backgroung but where does my root interest lie?";
+    content: "Where am I willing to invest my time and energy?";
 }
 .interests .serv-content .card{
     width: calc(33% - 20px);
