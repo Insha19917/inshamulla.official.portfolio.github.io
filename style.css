@@ -269,7 +269,7 @@ section .title::after{
 .interests .title::after,
 .teams .title::after{
     background: #fff;
-    content: "What I provide.....";
+    content: "Yes, I do belong to a tech backgroung but where does my root interest lie?";
 }
 .interests .serv-content .card{
     width: calc(33% - 20px);
@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "What I know.....";
+    content: "What skills do I possess?";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
